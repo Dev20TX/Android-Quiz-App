@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Android Developer Quiz</string>
+
+    <string name="android_quiz">Android Developer Quiz</string>
+
+    <string name="start_quiz">Start Quiz</string>
+
+    <string name="highscore">Highscore: 0</string>
+
+    <string name="score">Score: 0</string>
+
+    <string name="question">Question: 1/x</string>
+
+    <string name="question_1_10">Question_1_10</string>
+
+    <string name="time">00:30</string>
+
+    <string name="option_1">Option 1</string>
+
+    <string name="option_2">Option 2</string>
+
+    <string name="option_3">Option 3</string>
+
+    <string name="confirm">Confirm</string>
+
+</resources>
